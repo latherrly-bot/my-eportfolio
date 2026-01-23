@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Angie Muñoz | ePortfolio</title>
+    <title>Angeles Yaquelin Garcia Muñoz | ePortfolio</title>
     <style>
         body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: auto; padding: 20px; }
         h1, h2 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
